@@ -5,8 +5,9 @@ h1{
 .div{
     color: black;
     background-color: aquamarine;
-    margin: 3px;
+    margin: 20px;
     padding: 4px;
     box-shadow: 10px 10px 10px seagreen;
     border-radius: 5px;
+    border: 10px;
 }
